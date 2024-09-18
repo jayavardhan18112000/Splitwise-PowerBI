@@ -18,6 +18,6 @@ This Power BI report provides an easy way for roommates to track their monthly e
 
 ## Link to the Report
 
-You can access the Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiNjcwMjdjY2EtZmZhNi00NTUxLTg3ODMtZjIyYzUyMDRlNGZlIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9).
+You can access the Power BI report [here](https://app.powerbi.com/view?r=eyJrIjoiZjA4MWQzODctYTBlZC00MDhjLTg3NWEtNWQ4M2FlODZkNjFjIiwidCI6ImFjNzllNWE4LWUwZTQtNDM0Yi1hMjkyLTJjODliNWMyODM2NiIsImMiOjF9).
 
 ---
